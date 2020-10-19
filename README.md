@@ -10,4 +10,5 @@ Live Sports Streaming web app implemented with MERN Stack.
 # currently setting up new hosted versions on AWS EC2 compute.
 
 Will be updating this repo in a couple of days with links to all projects deployable on my gitlab and github repos.
-666666
+
+Thanks for the patience 
